@@ -9,7 +9,7 @@ class BuildTextField extends StatelessWidget {
       'Count:',
       style: TextStyle(
         fontWeight: FontWeight.bold,
-        fontSize: 32,
+        fontSize: 16,
       ),
     );
   }
