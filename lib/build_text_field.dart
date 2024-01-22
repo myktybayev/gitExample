@@ -6,7 +6,7 @@ class BuildTextField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Text(
-      'TextField',
+      'Count:',
       style: TextStyle(
         fontWeight: FontWeight.bold,
         fontSize: 32,
